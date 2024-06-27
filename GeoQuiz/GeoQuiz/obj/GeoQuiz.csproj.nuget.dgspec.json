@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\co.angelkovic\\source\\repos\\GeoQuiz\\GeoQuiz\\GeoQuiz.csproj": {}
+    "C:\\Users\\costa\\source\\repos\\GeoQuiz\\GeoQuiz\\GeoQuiz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\co.angelkovic\\source\\repos\\GeoQuiz\\GeoQuiz\\GeoQuiz.csproj": {
+    "C:\\Users\\costa\\source\\repos\\GeoQuiz\\GeoQuiz\\GeoQuiz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\co.angelkovic\\source\\repos\\GeoQuiz\\GeoQuiz\\GeoQuiz.csproj",
+        "projectUniqueName": "C:\\Users\\costa\\source\\repos\\GeoQuiz\\GeoQuiz\\GeoQuiz.csproj",
         "projectName": "GeoQuiz",
-        "projectPath": "C:\\Users\\co.angelkovic\\source\\repos\\GeoQuiz\\GeoQuiz\\GeoQuiz.csproj",
-        "packagesPath": "C:\\Users\\co.angelkovic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\co.angelkovic\\source\\repos\\GeoQuiz\\GeoQuiz\\obj\\",
+        "projectPath": "C:\\Users\\costa\\source\\repos\\GeoQuiz\\GeoQuiz\\GeoQuiz.csproj",
+        "packagesPath": "C:\\Users\\costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\costa\\source\\repos\\GeoQuiz\\GeoQuiz\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\co.angelkovic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -77,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
